@@ -59,10 +59,9 @@ I prefer to complete a small number of projects properly rather than maintain ma
 ---
 
 ## 📊 GitHub Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arunb-lab&theme=dark)
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=arunb-lab&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arunb-lab&layout=compact&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=arunb-lab&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=arunb-lab&theme=dark&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arunb-lab&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies ![](https://github-profile-trophy.vercel.app/?username=arunb-lab&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ---
 
 *Depth over breadth. Clarity over cleverness.*
