@@ -45,7 +45,7 @@ I intentionally keep my scope narrow and finish what I start.
 
 ## 🎯 Current Focus
 - Data Structures & Algorithms (Python)
-- Building a **Google-grade flagship project**
+- Building a **Cool Python project**
 - Writing tested, maintainable code with CI
 
 > “Build fewer things. Build them well.”
