@@ -1,56 +1,68 @@
-## 👋 Hi, I’m Arun
+# 👋 Hi, I’m Arun
 
-I’m a Computer Science teacher and aspiring software engineer focused on **clean Python and JavaScript**, strong **problem-solving fundamentals**, and **building small, correct, well-tested systems**.
+I am a Computer Science teacher with a strong interest in software engineering and problem-solving. My work focuses on building **clear, reliable programs**, understanding systems from the fundamentals upward, and writing code that is easy to read, test, and maintain.
 
-I care more about **clarity, correctness, and maintainability** than flashy tech stacks.
+Teaching has shaped the way I think about software. I value simplicity, careful reasoning, and solutions that can be clearly explained to others.
 
 ---
 
-## 🧠 What I Actually Work With
+## 💻 Tech Stack
 
-### Core Languages
+### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+---
 
 ### Backend & APIs
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Frontend (Foundations)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+---
 
-### Tooling & Practices
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### Tools & Development Environment
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge)
-![Ruff](https://img.shields.io/badge/Ruff-000000?style=for-the-badge)
 
 ---
 
-## 🧩 What I’m Building
-- Algorithmic utilities and scheduling logic  
-- Small backend services with clear APIs  
-- Educational tools that turn theory into practice  
-
-I prefer **one well-designed project** over ten unfinished ones.
+### Infrastructure & Servers
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 ---
 
-## 📊 GitHub Activity
-![Stats](https://github-readme-stats.vercel.app/api?username=arunb-lab&theme=dark&hide_border=false)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=arunb-lab&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arunb-lab&layout=compact&theme=dark)
+### Educational & Hardware Tools
+![Scratch](https://img.shields.io/badge/Scratch-FFA500?style=for-the-badge&logo=scratch&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+---
+
+## 🧩 What I Work On
+- Backend services with clearly defined APIs  
+- Algorithmic utilities and scheduling or logic-driven tools  
+- Educational projects that convert theory into practical applications  
+
+I prefer to complete a small number of projects properly rather than maintain many unfinished experiments.
 
 ---
 
 ## 🎯 Current Focus
-- Data Structures & Algorithms (Python)
-- Building a **cool python project**
-- Writing cleaner code with tests and CI
+- Strengthening data structures and algorithms using Python  
+- Building a production-quality flagship project  
+- Improving code quality through testing and continuous integration  
 
 ---
 
-> “Depth over breadth. Correctness over cleverness.”
+## 📊 GitHub Activity
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arunb-lab&theme=dark)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=arunb-lab&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arunb-lab&layout=compact&theme=dark)
+
+---
+
+*Depth over breadth. Clarity over cleverness.*
