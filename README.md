@@ -70,3 +70,4 @@ I prefer to complete a small number of projects properly rather than maintain ma
 ---
 
 *Depth over breadth. Clarity over cleverness.*
+#______________
